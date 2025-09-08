@@ -88,9 +88,6 @@ Make sure to follow the instructions in the How to Complete Your Exercises Guide
    - Emphasis
    - Special Characters
    - Hyperlinks (including email links and same-page links)
-   - Unordered lists
-   - Ordered lists
-   - Description lists
    - Image
    - Div and span (you shouldn't need these elements as they carry no semantic meaning and are only used to define areas to which you want to apply styling)
      Look the elements up in HTMLreference.io for details on how to use them. Feel free to experiment using more HTML elements if you like.
